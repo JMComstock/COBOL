@@ -1,7 +1,7 @@
 # COBOL
 
 <h2>Make sure Cobol Compiler installed on your system</h2>
-<i>the $ indicates you must be in bash for these commands</i>
+
 ```
 $ whereis cobc
 ```
@@ -12,11 +12,13 @@ $ which cobc
 /usr/bin/cobc
 
 <h2>If cobol is not installed ...</h2>
+
 ```
 $ sudo apt-get install open-cobol
 ```
 
 <h2>Execute the cobol program</h2>
+
 ```
 $ ./helloworld-exe
 ```
